@@ -1,6 +1,5 @@
 class Person{
     String name;
-
     Person(String data){
         System.out.println(data);
     }
